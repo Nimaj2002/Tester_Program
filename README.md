@@ -1,4 +1,4 @@
-# Tester Programm
+# Tester Program
 
 This Program is for checking written codes with special inputs with their outputs 
 
